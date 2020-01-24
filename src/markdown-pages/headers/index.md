@@ -16,6 +16,6 @@ The `Accept` header tells the server what media type to respond to the request w
     <b>HTTP Headers</b>
   </div>
   <div class="content">
-    Ensure that every request has <code>Content-Type: applicaiton/json</code> and <code>Accept: application/json</code> headers.
+    Ensure that every request has <code>Content-Type: application/json</code> and <code>Accept: application/json</code> headers.
   </div>
 </div>
